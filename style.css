@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+.kef{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+  
+}
+
+
+#container{
+    font-size: 4.5rem;
+}
+
+.encabezado{
+    width: 600px;
+}
+
+.rest{
+    font-size: 20rem;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.redess{
+    width: 850px;
+    
+}
+
+.main{
+    font-size: 4.5rem;
+    text-align: center;
+}
